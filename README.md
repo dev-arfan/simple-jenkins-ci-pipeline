@@ -22,6 +22,6 @@ This project sets up a local Jenkins instance using Docker, builds a simple Pyth
 
 ## 🧪 Example Test
 ```bash
-pytest simple-app/test_app.py
+pytest simple-app/test_app.py ```
 
 Follow the SOP for detailed steps: https://docs.google.com/document/d/1_ofAxR41-VMHUKGrVeH_HRInE0_t2WIOgvLa9z2zoCI/edit?tab=t.0
